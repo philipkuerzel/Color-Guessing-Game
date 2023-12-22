@@ -1,4 +1,4 @@
-# Color Guessing Game Readme
+# Color Guessing Game
 ## This project is a simple color guessing game built using HTML, CSS, and JavaScript. The game presents the player with a set of colored boxes, and the objective is to guess which color corresponds to the RGB value displayed at the top of the page.
 
 ## How to Play
